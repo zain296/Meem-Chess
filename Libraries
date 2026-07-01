@@ -1,0 +1,6 @@
+Libraries Required:
+python-chess
+pillow
+customtkinter
+
+In cmd just run : pip install python-chess pillow customtkinter
