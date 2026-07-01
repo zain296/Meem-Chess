@@ -1,0 +1,22 @@
+# Stockfish engine binary — large, platform-specific, distributed separately.
+# See the README's "Setting Up Stockfish" section.
+assets/stockfish.exe
+assets/stockfish
+engines/stockfish.exe
+engines/stockfish
+
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
