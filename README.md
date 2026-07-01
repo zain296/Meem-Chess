@@ -1,5 +1,3 @@
-![Meem Chess banner](preview.png)
-
 # Meem Chess
 
 Play chess against an AI you can actually see the source code of — or against Stockfish, one of the strongest chess engines in the world, tuned down to three human-feeling difficulty levels. Meem Chess is a Python desktop app with a full graphical board, built on top of the [python-chess](https://python-chess.readthedocs.io/) rules engine and a hand-written Alpha-Beta search AI.
